@@ -1,0 +1,60 @@
+{
+  "Block1": [
+    {
+      "num": 1,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    },
+    {
+      "num": 2,
+      "position": "الرئيسي",
+      "area": "150",
+      "meter": "2800"
+    }
+  ],
+  "Block2": [
+    {
+      "num": 1,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    },
+    {
+      "num": 2,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    }
+  ],
+
+  "Block3": [
+    {
+      "num": 1,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    },
+    {
+      "num": 2,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    }
+  ],
+
+  "Block4": [
+    {
+      "num": 1,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    },
+    {
+      "num": 2,
+      "position": "الرئيسي",
+      "area": "165",
+      "meter": "3000"
+    }
+  ]
+}
